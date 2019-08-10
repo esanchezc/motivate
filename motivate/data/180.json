@@ -2,9 +2,13 @@
 	"data": [
 		{
 			"quote": "You can have everything you want in life if you just help enough people get what they want in life.",
+<<<<<<< HEAD
 
 			"author": "Armando Cifuentes"
 
+=======
+			"author": "Armando Cifuentes González"
+>>>>>>> ab9dfe3d6754f18d54b0fe5e557d6ff01831d6ad
 		},
 		{
 			"quote": "If I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.",
@@ -27,7 +31,6 @@
 			"quote": "Happiness is not something you postpone for the future; it is something you desing for the present.",
 
 			"author": "J Marin"
-
 		}
 		{
 			"quote": "Bootcamp Automation: QA Minds & Codeando México",
