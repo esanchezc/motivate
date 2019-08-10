@@ -17,8 +17,14 @@
 			"author": "Emanuel Sanchez"
 		},
 		{
+<<<<<<< HEAD
+			"quote": "The start is what stops most people.",
+
+			"author": "Amadeus Torres"
+=======
 			"quote": "Live long Fly Fast",
 			"author": "J Marin"
+>>>>>>> 7e57f7db4106816b1672a97f46ab892cfd1588e4
 		},
 		{
 			"quote": "Happiness is not something you postpone for the future; it is something you desing for the present.",
@@ -28,5 +34,9 @@
 			"quote": "Bootcamp Automation: QA Minds & Codeando México",
 			"author": "Armando Cifuentes González"
 		}
-	]
+		{
+			"quote": "La distancia mas larga entre 2 personas es la distancia",
+			"author": "Yo AAT"
+		}	
+]
 }
