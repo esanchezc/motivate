@@ -2,7 +2,7 @@
 	"data": [
 		{
 			"quote": "You can have everything you want in life if you just help enough people get what they want in life.",
-			"author": "Emanuel Sanchez"
+			"author": "Armando Cifuentes González"
 		},
 		{
 			"quote": "If I have the belief that I can do it, I shall surely acquire the capacity to do it even if I may not have it at the beginning.",
@@ -17,13 +17,22 @@
 			"author": "Emanuel Sanchez"
 		},
 		{
+<<<<<<< HEAD
 			"quote": "The start is what stops most people.",
 
 			"author": "Amadeus Torres"
+=======
+			"quote": "Live long Fly Fast",
+			"author": "J Marin"
+>>>>>>> 7e57f7db4106816b1672a97f46ab892cfd1588e4
 		},
 		{
 			"quote": "Happiness is not something you postpone for the future; it is something you desing for the present.",
-			"author": "Emanuel Sanchez" "AAT comentario"
+			"author": "Emanuel Sanchez"
+		}
+		{
+			"quote": "Bootcamp Automation QA Minds and Codeando México",
+			"author": "Armando Cifuentes González"
 		}
 		{
 			"quote": "La distancia mas larga entre 2 personas es la distancia",
